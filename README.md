@@ -6,6 +6,7 @@ The report reviews the evolution of embodied agents, from pre-LLM approaches to 
 
 ## 📄 Contents
 - `How_to_leverage_Foundation_Models_for_Embodied_Agents.pdf` – Final survey.
+- `Slides.pdf` - Presentation
 - `latex_src/` – LaTeX source used to build the paper.
 
 ## 🧩 Topics Covered
